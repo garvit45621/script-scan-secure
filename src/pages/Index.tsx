@@ -112,7 +112,7 @@ const Index = () => {
           <div className="text-center mb-20 fade-in-up">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-6">
               How It{" "}
-              <span className="bg-gradient-to-r from-medical-purple to-medical-red bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-medical-purple to-medical-red bg-clip-text ">
                 Works
               </span>
             </h2>
