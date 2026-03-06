@@ -49,7 +49,7 @@ const Index = () => {
           <div className="fade-in-up">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-8 leading-tight">
               Modern Healthcare{" "}
-              <span className="bg-gradient-to-r from-primary to-medical-blue bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-primary to-medical-blue bg-clip-text ">
                 Simplified
               </span>
             </h1>
@@ -83,7 +83,7 @@ const Index = () => {
           <div className="text-center mb-16 fade-in-up">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-6">
               Built for Every Healthcare{" "}
-              <span className="bg-gradient-to-r from-medical-green to-medical-blue bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-medical-green to-medical-blue bg-clip-text ">
                 Professional
               </span>
             </h2>
