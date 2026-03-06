@@ -154,7 +154,7 @@ const Index = () => {
         <div className="max-w-5xl mx-auto text-center relative z-10 fade-in-up">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
             Ready to Modernize Your{" "}
-            <span className="text-white drop-shadow-lg">
+            <span className="text-3xl drop-shadow-lg">
               Healthcare Practice?
             </span>
           </h2>
@@ -163,7 +163,7 @@ const Index = () => {
             Start your digital transformation today.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
-            <Button asChild size="lg" variant="secondary" className="bg-white text-primary hover:bg-white/90 shadow-xl text-lg px-12 py-6 font-semibold">
+            <Button asChild size="lg" variant="secondary" className="border-2 border-white/80 text-white hover:bg-white/10 backdrop-blur-sm text-lg px-12 py-6 font-semibold">
               <Link to="/register">Start Free Trial</Link>
             </Button>
             <Button asChild size="lg" variant="outline" className="border-2 border-white/80 text-white hover:bg-white/10 backdrop-blur-sm text-lg px-12 py-6 font-semibold">
